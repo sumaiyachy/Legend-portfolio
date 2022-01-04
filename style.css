@@ -13,6 +13,7 @@ body{
     }
     selection{
         display: flex;
+        margin: 200px;
     }
     .half{
         width: 50%;
@@ -33,4 +34,18 @@ body{
 }
     .banner{
         background-image: url(images/top-banner.png);
+    }
+    .Right-side{
+        display: flex;
+        background-image:url(images/dream-bg.png) ;
+        background-repeat: no-repeat;
+    }
+    .shadow{
+        box-shadow: 10px 10px 40px grey;
+        width: 80%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 20px;
+        border-radius: 10px;
+        border-left: 10px solid;
     }
