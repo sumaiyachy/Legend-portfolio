@@ -1,0 +1,36 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0px;
+} 
+    h1{
+        font-size: 70px;
+    }  
+    h2{
+        font-size: 40px;
+    }
+    .red{
+        color: red;
+    }
+    selection{
+        display: flex;
+    }
+    .half{
+        width: 50%;
+        padding-left: 5%;
+    }
+    .half img{
+         width: 60%;
+    }
+.link{
+    text-decoration: none;
+    background-color: rgb(83, 83, 4);
+    background-image: linear-gradient();
+    padding: 10px 40px;
+    color: rgb(182, 2, 2);
+    font-weight: 700;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+}
+    .banner{
+        background-image: url(images/top-banner.png);
+    }
